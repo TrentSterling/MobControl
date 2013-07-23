@@ -1,4 +1,4 @@
-name: StopBreeding
+name: MobControl
 main: com.trentsterling.mobcontrol.MobControlPlugin
 author: NachoHat
 version: 0.0.1
